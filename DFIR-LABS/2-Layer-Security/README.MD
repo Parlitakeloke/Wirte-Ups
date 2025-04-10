@@ -26,3 +26,5 @@ Note: This challenge doesn't have any questions but the flag itself!
 
 - ## Downloaded Files:
   - ![file](images/2-l.png)
+
+# [You can find the write-up here](https://docs.google.com/document/d/1LcRaDAVhxCmS-peBN0udXZ7gzwsypOlsV_x0Xyd7-yI/edit?usp=sharing)
