@@ -25,4 +25,4 @@
 Note: This challenge doesn't have any questions but the flag itself!
 
 - ## Downloaded Files:
-  - Easy
+  - ![file](images/2-l.png)
